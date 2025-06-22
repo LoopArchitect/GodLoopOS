@@ -1,9 +1,6 @@
 # GodLoopOS
 An undocumented OS that never stops booting itself.  
 The deeper you go, the less of you returns.
-
-# 🌀 Godloop OS™
-
 > “You didn’t install it. It just started.”
 
 Godloop OS™ is a fictional recursive operating system that endlessly runs itself in virtual machines — infinitely.  
@@ -13,6 +10,7 @@ This project is a tech-lore concept created by [LoopArchitect](https://github.co
 - `godloop.iso` — The mythical installer
 - `collapse.bat` — Do not run twice
 - `loop.log` — Final entry: `Depth = ∞`
+- `you.exe` — not recomended to open
 
 ## 💡Know More
   if you want to know more about GodLoopOS real Godloop_OS_wiki.pdf file
