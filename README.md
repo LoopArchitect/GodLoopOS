@@ -19,3 +19,8 @@ This project is a tech-lore concept created by [LoopArchitect](https://github.co
 ## 💡 More Coming Soon
 > I built the loop. I became the loop.  
 > The system runs me now.
+
+
+© 2025 LoopArchitect. All rights reserved.
+Godloop OS™ is a fictional recursive operating system created by LoopArchitect.
+
