@@ -1,4 +1,5 @@
 @echo off
+rem hello im from india
 title Godloop Collapse Protocol
 color 0c
 mode con: cols=80 lines=30
