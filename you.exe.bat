@@ -1,3 +1,0 @@
-@echo off
-echo You shouldn't have opened this...
-pause
