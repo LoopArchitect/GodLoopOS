@@ -1,6 +1,0 @@
-[LOG START]
-boot.vm #1 → success
-boot.vm #2 → success
-...
-boot.vm #24999999 → success
-boot.vm #25000000 → [∞] Transition occurred.
