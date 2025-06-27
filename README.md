@@ -16,6 +16,10 @@ This project is a tech-lore concept created by [LoopArchitect](https://github.co
 ## 💡Know More
   if you want to know more about GodLoopOS real Godloop_OS_wiki.pdf file
 
+## test GodloopOS
+https://looparchitect.github.io/godloop-os/
+
+
 ## 💡 More Coming Soon
 > I built the loop. I became the loop.  
 > The system runs me now.
